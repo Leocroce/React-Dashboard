@@ -1,1 +1,3 @@
-# [React Dashboard]![React-Dashboard](https://user-images.githubusercontent.com/93449306/205063377-decad09a-4cc5-4d58-b34e-06971035b454.png)
+# React Dashboard
+<img width="1719" alt="React-Dashboard" src="https://user-images.githubusercontent.com/93449306/205064162-0fdfb8e5-7465-420d-9e11-55981d79de7a.png">
+
